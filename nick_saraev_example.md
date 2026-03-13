@@ -1,0 +1,6 @@
+# Auto Research Project Example
+
+## this is an example of single use case of how this project can be used, but it can be used for many other things. just read the prompt below to understand the use case. and later follow my instructions to build a new use case.
+
+Hey, I want you to use the context in the auto research folder to help me build a very similar idea, except instead of testing for validation loss and iterating on a machine learning model. I want you to do all of this, but for cold email.The metric I'm
+interested in optimizing for is my reply rate. The platform I'm going to be doing all this stuff on is instantly, and I'll give you the API credentials and everything that you need in a moment, And finally, the thing that you're going to change between one experiment and the other is going to be the copy of the cold emails. Finally, I want you to take all this and then put this on the cloud using GitHub actions. So, it runs once every hour and it has everything it needs to work on autopilot. ß
